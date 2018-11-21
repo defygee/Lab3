@@ -1,0 +1,7 @@
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\obj\Debug\3LaboratoryWork3.csprojAssemblyReference.cache
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\obj\Debug\3LaboratoryWork3.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\bin\Debug\3LaboratoryWork3.exe.config
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\bin\Debug\3LaboratoryWork3.exe
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\bin\Debug\3LaboratoryWork3.pdb
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\obj\Debug\3LaboratoryWork3.exe
+C:\Users\Alexey\source\repos\3LaboratoryWork3\3LaboratoryWork3\obj\Debug\3LaboratoryWork3.pdb
